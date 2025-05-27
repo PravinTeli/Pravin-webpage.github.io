@@ -1,0 +1,13 @@
+title: Pravin Teli's Website
+author: Pravin Teli
+description: A personal website built with Jekyll for Assignment 1
+theme: minima
+header_pages:
+  - about.md
+  - portfolio.md
+  - blog.md
+  - contact.md
+show_excerpts: true
+minima:
+  social_links:
+    github: PravinTeli
